@@ -82,7 +82,8 @@ public class WeiXinIdentityProvider extends AbstractOAuth2IdentityProvider<OAuth
 	public static final String WECHATFLAG = "micromessenger";
 	
 	
-	public static final String WECHAT_REDIRECT_URL="https://www.moerzhizhi.com/redirect/keyclock-t";
+	//这里是用于扫码登录后，跳转URL地址，自定义
+	public static final String WECHAT_REDIRECT_URL="https://www.baidu.com";
 
 	public WeiXinIdentityProvider(KeycloakSession session, OAuth2IdentityProviderConfig config) {
 		super(session, config);
