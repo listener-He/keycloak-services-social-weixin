@@ -24,6 +24,7 @@ To install the social weixin one has to:（English VERSION）
     cd _KEYCLOAK_HOME_/bin/
     ./kc.sh start-dev &
 ```
+ **_KEYCLOAK_HOME_/themes/base/admin/resources/partials 文件夹不存在，可通过mkdir -p 手动创建** 
 
 
 # 版本更新
@@ -42,4 +43,10 @@ To install the social weixin one has to:（English VERSION）
 6 redirectURL 跳转地址需要手动修改，具体参考源码
 
 
+# 流程指引
+![输入图片说明](templates/image.png)
 
+![输入图片说明](templates/1668160085561.jpg)
+
+# 效果展示
+![输入图片说明](templates/1668160134809.jpg)
