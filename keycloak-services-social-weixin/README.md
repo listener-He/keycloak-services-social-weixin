@@ -40,7 +40,7 @@ To install the social weixin one has to:（English VERSION）
 
 5 _KEYCLOAK_HOME_/themes/base/admin/resources/partials 文件夹不存在，可通过mkdir -p 手动创建
 
-6 redirectURL 跳转地址需要手动修改，具体参考源码
+ **6 redirectURL 跳转地址需要手动修改，具体参考源码(WeiXinIdentityProvider.java - > WECHAT_REDIRECT_URL) 自行修改** 
 
 
 # 流程指引
