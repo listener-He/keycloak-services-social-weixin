@@ -46,7 +46,8 @@ To install the social weixin one has to:（English VERSION）
 # 流程指引
 ![输入图片说明](templates/image.png)
 
-![输入图片说明](templates/1668160085561.jpg)
+![输入图片说明](templates/1670203627421.jpg)
+
 
 # 效果展示
 ![输入图片说明](templates/1668160134809.jpg)
